@@ -11,4 +11,4 @@ The algorithm contains 4 major steps:
 
 This project implements the Barnes Hut algorithm serially, in parallel and with a work stealing refinement.
 
-Command for execution: go run main.go <num_particles> <num_iterations>  s/p/w (type of execution)
+**Command for execution:** go run main.go <num_particles> <num_iterations>  s/p/w (type of execution)
