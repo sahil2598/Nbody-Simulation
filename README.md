@@ -6,7 +6,7 @@ This project numerically approximates the evolution of a system of bodies in whi
 
 An **N-body simulation** involves calculating gravitational forces between multiple bodies. The force between two bodies is given by:
 
-\[ F = \frac{G \cdot m1 \cdot m2 \cdot R}{r^3} \]
+\[ F = \frac{G \cdot m1 \cdot m2 \cdot \mathbf{R}}{r^3} \]
 
 where:
 - **G** is the universal gravitational constant.
